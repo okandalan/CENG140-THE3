@@ -11,3 +11,5 @@ basic Internet connection mapping in a sample street"
 
 You can find what the tasks are and functions do in the .pdf file, but brief explanation is that circular and double linked list whose nodes are struct are implemented to mapping internet connection and 
 functions are defined to make some operations on this mapping such as remove, add or merge.
+
+main.c is used for testing.
